@@ -1,0 +1,1 @@
+{"datastreams": [{"current_value": 5093, "id": "hdd"}, {"current_value": "6", "id": "cpu"}, {"current_value": 31, "id": "free_mem"}, {"current_value": 407, "id": "used_mem"}], "version": "1.0.0"}
